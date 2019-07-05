@@ -12,6 +12,8 @@
 
 When I started learning `JavaScript`, I did something quite similar, but very simplistic, unfortunately I did not knew how to use git so I lost the files. So I kinda recreated it, but more complex, trying to implement as many functionalities of [jQuery](https://jquery.com/) as I could, related to `DOM Traversal`, `DOM Manipulation`, `Attributes`, `CSS`, `Events` and other `Utilities`. And it's quite a good exercise, that can help a junior learn quite a lot about `JavaScript` and the `DOM`.
 
+<br>
+
 ## structure
 
 The main components of this *library* are:
